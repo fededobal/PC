@@ -15,6 +15,8 @@
 
 **1. Se dispone de un puente por el cual puede pasar un solo auto a la vez. Un auto pide permiso para pasar por el puente, cruza por el mismo y luego sigue su camino.**
 
+![Código del monitor Puente](img/practica-3/01.png)
+
 **a. ¿El código funciona correctamente? Justifique su respuesta.**
 
 no. auto le manda a los procesos de puente su id como parámetro, pero los procesos no piden parámetros.
